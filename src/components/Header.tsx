@@ -1,4 +1,4 @@
-import { Logo } from './Logo'
+import Logo from '../assets/Logo.png'
 
 export function Header() {
   return (
